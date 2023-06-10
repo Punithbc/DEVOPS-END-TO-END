@@ -1,4 +1,4 @@
-FROM tomcat:11.0
+FROM tomcat:8-jre11
 LABEL "author"="Punith"
 
 
